@@ -1,0 +1,72 @@
+
+হাই 
+
+
+
+আমার আজকে কি করা উচিত  
+
+
+
+কতোটুকু পানি খাওয়া উচিত 
+
+
+
+কতক্ষণ শরীর চরচা করা উচিত 
+
+
+
+কি কি খাবার খাওয়া উচিত   
+
+
+কতদিন পর রক্তদান করা উচিত 
+
+
+
+বয়স কত হয়া উচিত 
+
+
+ধূমপায়ী রক্তদাতা থেকে রক্ত নেওয়া যাবে 
+
+
+
+ arrayBangla.add("হাই");
+        arrayBangla.add("আমার আজকে কি করা উচিত");
+        arrayBangla.add("কতোটুকু পানি খাওয়া উচিত");
+        arrayBangla.add("কতোটুকু শরীর চরচা করা উচিত");
+        arrayBangla.add("কি কি খাবার খাওয়া উচিত");
+        arrayBangla.add("কতদিন পর রক্তদান করা উচিত");
+        arrayBangla.add("বয়স কত হয়া উচিত");
+        arrayBangla.add("ধূমপায়ী রক্তদাতা থেকে রক্ত নেওয়া যাবে");
+
+        arrayEnglish.add("hi");
+        arrayEnglish.add("What should I do today");
+        arrayEnglish.add("How much water should I drink");
+        arrayEnglish.add("How much should I exercise");
+        arrayEnglish.add("What food should I take");
+        arrayEnglish.add("After how long should I donate blood");
+        arrayEnglish.add("What is age limit for blood donation");
+        arrayEnglish.add("What to do for smokers");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
